@@ -1,0 +1,347 @@
+{
+  "comments": [
+    {
+      "username": "Malo Mercier",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/72.jpg",
+      "timePosted": "2021-04-27T21:00:09.109Z",
+      "text": "Rupert Grint sounds more like a Harry Potter character than Ron Weasley.",
+      "id": 0
+    },
+    {
+      "username": "مهرسا مرادی",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/61.jpg",
+      "timePosted": "2021-04-27T21:32:33.263Z",
+      "text": "Cats and dogs deserve way more credit than humans give them. While they have to endure their owners constantly talking, arguing, crying, singing, etc.with no breaks from it, humans will do whatever it takes to get their cat or dog to be quiet after just a few barks or meows.",
+      "id": 1
+    },
+    {
+      "username": "Eli Davidson",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/83.jpg",
+      "timePosted": "2021-04-27T21:56:13.564Z",
+      "text": "It takes intelligence to realise how stupid you are.",
+      "id": 2
+    },
+    {
+      "username": "Annie Westad",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/37.jpg",
+      "timePosted": "2021-04-27T21:59:25.162Z",
+      "text": "The moral of the Tortoise and the Hare is not “slow and steady wins the race”. It’s “don’t blow your lead by showboating”.",
+      "id": 3
+    },
+    {
+      "username": "Tymon Bjørlo",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/99.jpg",
+      "timePosted": "2021-04-27T22:27:25.865Z",
+      "text": "Human Beings are the biggest procrastinators in history. We've been around for 2.5 million years but we only kinda remember the last 10,000 and only really started doing anything with ourselves over the last 2,000 and even that's not going great.",
+      "id": 4
+    },
+    {
+      "username": "Pippa Harris",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/4.jpg",
+      "timePosted": "2021-04-27T22:54:49.773Z",
+      "text": "When immortality is a thing, some jobs will require a thousand years of experience",
+      "id": 5
+    },
+    {
+      "username": "Bianca Haidari",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/15.jpg",
+      "timePosted": "2021-04-27T23:30:47.553Z",
+      "text": "The world is so much better when people connect over their love of something rather than their hate for something",
+      "id": 6
+    },
+    {
+      "username": "Zulma Peixoto",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/70.jpg",
+      "timePosted": "2021-04-27T23:56:03.352Z",
+      "text": "It's weird that \"underneath\" is a word but \"overbove\" is not.",
+      "id": 7
+    },
+    {
+      "username": "Hayley White",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/47.jpg",
+      "timePosted": "2021-04-28T01:10:23.683Z",
+      "text": "Room-temperature water tastes warm, but room-temperature food tastes cold",
+      "id": 8
+    },
+    {
+      "username": "Samy Kruize",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/16.jpg",
+      "timePosted": "2021-04-28T01:17:49.199Z",
+      "text": "Secret Santa could have been named “Confidentiality Clause”",
+      "id": 9
+    },
+    {
+      "username": "Olivia Johansen",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
+      "timePosted": "2021-04-28T01:43:15.054Z",
+      "text": "Life on Earth is powered by a giant, ancient thermonuclear explosion that is too massive to even properly explode.",
+      "id": 10
+    },
+    {
+      "username": "Lenni Makela",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/11.jpg",
+      "timePosted": "2021-04-28T01:50:24.721Z",
+      "text": "If chess is a sport, then chess players are technically professional athletes",
+      "id": 11
+    },
+    {
+      "username": "Jose Menard",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/40.jpg",
+      "timePosted": "2021-04-28T02:02:56.487Z",
+      "text": "If the person who named the walkie talkie named everything else, we would not be able to take anything seriously.",
+      "id": 12
+    },
+    {
+      "username": "مهرسا نكو نظر",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
+      "timePosted": "2021-04-28T02:47:37.290Z",
+      "text": "Luke Skywalker never did pick up those power converters",
+      "id": 13
+    },
+    {
+      "username": "Rafael Crespo",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/95.jpg",
+      "timePosted": "2021-04-28T03:10:19.064Z",
+      "text": "When listening to foreign music, vocals are more like instrumentals because you can't understand them and treat them more for musicality than lyrics",
+      "id": 14
+    },
+    {
+      "username": "Judd Garcia",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/99.jpg",
+      "timePosted": "2021-04-28T03:59:24.182Z",
+      "text": "Breaking Bad is 5-season-long commercial for life insurance and universal health care.",
+      "id": 15
+    },
+    {
+      "username": "Tracey Hill",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/69.jpg",
+      "timePosted": "2021-04-28T04:04:16.161Z",
+      "text": "As you get older, peer pressure turns from more serious issues into seeing your neighbours putting up their Christmas Lights and mowing their lawns",
+      "id": 16
+    },
+    {
+      "username": "Ernesto Montero",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/70.jpg",
+      "timePosted": "2021-04-28T04:59:40.487Z",
+      "text": "House flies have existed far longer than houses.",
+      "id": 17
+    },
+    {
+      "username": "Aada Jarvinen",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/84.jpg",
+      "timePosted": "2021-04-28T05:40:32.268Z",
+      "text": "Countless different versions of yourself exist in the minds of everyone who's ever met you",
+      "id": 18
+    },
+    {
+      "username": "Katie Hopkins",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/21.jpg",
+      "timePosted": "2021-04-28T05:47:21.708Z",
+      "text": "Looking in the mirror switches real life from 1st person to 3rd person view.",
+      "id": 19
+    },
+    {
+      "username": "Madison Ross",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/0.jpg",
+      "timePosted": "2021-04-28T06:41:00.875Z",
+      "text": "Putting your phone down is the ultimate compliment to a TV show or movie.",
+      "id": 20
+    },
+    {
+      "username": "Elli Hakala",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/17.jpg",
+      "timePosted": "2021-04-28T07:08:09.223Z",
+      "text": "Falling asleep is the only human function you have to pretend to do in order for it to actually happens.",
+      "id": 21
+    },
+    {
+      "username": "Virgil Mckinney",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
+      "timePosted": "2021-04-28T07:22:42.133Z",
+      "text": "Sea creatures probably think scuba divers are UFOs",
+      "id": 22
+    },
+    {
+      "username": "Herbert Guillaume",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/20.jpg",
+      "timePosted": "2021-04-28T07:26:54.917Z",
+      "text": "The only difference between holding a ball in your hands and doing a handstand is the size of the ball.",
+      "id": 23
+    },
+    {
+      "username": "Neşe De Kreek",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/63.jpg",
+      "timePosted": "2021-04-28T07:29:58.551Z",
+      "text": "The amount of Batman sightings in a neighborhood in Gotham probably has an effect on the value of properties and rent.",
+      "id": 24
+    },
+    {
+      "username": "Randall Wells",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/37.jpg",
+      "timePosted": "2021-04-28T08:35:37.296Z",
+      "text": "Pay phones were removed to prevent anyone from exiting the Matrix...",
+      "id": 25
+    },
+    {
+      "username": "Murat Kavaklıoğlu",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/60.jpg",
+      "timePosted": "2021-04-28T08:37:09.643Z",
+      "text": "Parenting is a constant state of flux between ‘having all the kids clothes washed and put away’ and ‘having enough coat hangers and drawer space’.",
+      "id": 26
+    },
+    {
+      "username": "Carla Mora",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/74.jpg",
+      "timePosted": "2021-04-28T08:48:53.366Z",
+      "text": "Junk is what you keep until the day before you need it.",
+      "id": 27
+    },
+    {
+      "username": "Gloria Flores",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/82.jpg",
+      "timePosted": "2021-04-28T08:50:43.500Z",
+      "text": "Nothing hurts more than telling a joke or asking something and no one replies.",
+      "id": 28
+    },
+    {
+      "username": "Amy Novak",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/44.jpg",
+      "timePosted": "2021-04-28T09:04:21.959Z",
+      "text": "The hardest part about going for a haircut is deciding which t-shirt will become the itchy t-shirt",
+      "id": 29
+    },
+    {
+      "username": "Tom Horton",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/13.jpg",
+      "timePosted": "2021-04-28T09:44:27.511Z",
+      "text": "If you constantly feel like the smartest person in the room, you are either a narcissist or you need to find a new room.",
+      "id": 30
+    },
+    {
+      "username": "Brielle Campbell",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/82.jpg",
+      "timePosted": "2021-04-28T10:01:47.500Z",
+      "text": "Wood is cellulose. Cellulose is a polysaccharide. Polysaccharides are complex sugars. Wood is candy and we live in candy houses",
+      "id": 31
+    },
+    {
+      "username": "Caroline Clark",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/39.jpg",
+      "timePosted": "2021-04-28T10:10:39.293Z",
+      "text": "Technically, all art you see on an electronic device is pixel art",
+      "id": 32
+    },
+    {
+      "username": "Millie White",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/95.jpg",
+      "timePosted": "2021-04-28T11:37:49.803Z",
+      "text": "It's likely the human race will only ever refer to the dinosaurs as ending \"65 million years ago\"",
+      "id": 33
+    },
+    {
+      "username": "Jutta Jankowski",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/11.jpg",
+      "timePosted": "2021-04-28T11:51:24.690Z",
+      "text": "There must be millions of dead potted plants in empty office buildings all over the world.",
+      "id": 34
+    },
+    {
+      "username": "Tyler Payne",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/82.jpg",
+      "timePosted": "2021-04-28T12:04:37.338Z",
+      "text": "Computer AI has gotten so advanced that it can determine our thinking patterns and recognize our voices and faces, but still can’t figure out which one of these pictures does not contain a boat",
+      "id": 35
+    },
+    {
+      "username": "Hannah Hudson",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/84.jpg",
+      "timePosted": "2021-04-28T12:20:22.170Z",
+      "text": "You have a pretty short window in your life to meet a dog/cat that is older than you are.",
+      "id": 36
+    },
+    {
+      "username": "Glen Allen",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/74.jpg",
+      "timePosted": "2021-04-28T12:50:22.072Z",
+      "text": "We must have missed so many songs that could have been our favorite, because the intro is completely different from the main song",
+      "id": 37
+    },
+    {
+      "username": "Ayşe Ekici",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/47.jpg",
+      "timePosted": "2021-04-28T12:53:41.407Z",
+      "text": "Somebody in the Andromeda galaxy probably has a badass photo of the Milky Way.",
+      "id": 38
+    },
+    {
+      "username": "Arthur Legrand",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/38.jpg",
+      "timePosted": "2021-04-28T14:59:45.150Z",
+      "text": "In zombie TV shows and movies, wrecked cars never have airbags deployed.",
+      "id": 39
+    },
+    {
+      "username": "Rose Kumar",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/48.jpg",
+      "timePosted": "2021-04-28T15:26:12.203Z",
+      "text": "As you grow up, your fear of ghosts at night is slowly replaced by robbers and burglaries.",
+      "id": 40
+    },
+    {
+      "username": "Chloe Jackson",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/54.jpg",
+      "timePosted": "2021-04-28T15:35:27.046Z",
+      "text": "\"Don't judge a book by it's cover\" is offensive to people who's job it is to design book covers",
+      "id": 41
+    },
+    {
+      "username": "Ella Barnaby",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/48.jpg",
+      "timePosted": "2021-04-28T17:12:29.776Z",
+      "text": "Losing a tooth at 7 is way more exciting than losing a tooth at 30.",
+      "id": 42
+    },
+    {
+      "username": "Ariovanda Jesus",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/56.jpg",
+      "timePosted": "2021-04-28T17:21:52.036Z",
+      "text": "Assuming humans evolved from apes and lost all their hair in the process, humans who are bald have ascended to a next level of human evolution.",
+      "id": 43
+    },
+    {
+      "username": "Shane Ng",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/81.jpg",
+      "timePosted": "2021-04-28T18:15:00.549Z",
+      "text": "Human intelligence seems almost completely without limit. In both directions.",
+      "id": 44
+    },
+    {
+      "username": "Teresa Nelson",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/7.jpg",
+      "timePosted": "2021-04-28T18:45:38.022Z",
+      "text": "Instead of stopping at each persons house, Amazon trucks could roll through the neighborhood playing a song and we’d all go running out to find them and get our stuff",
+      "id": 45
+    },
+    {
+      "username": "Angela Alvarez",
+      "picture": "https://randomuser.me/api/portraits/thumb/women/36.jpg",
+      "timePosted": "2021-04-28T19:23:27.301Z",
+      "text": "You don’t remember the vast majority of your own life. All the sleeping, eating, and sitting around you do will add up to years of unretrievable memories",
+      "id": 46
+    },
+    {
+      "username": "Adrian Mora",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/99.jpg",
+      "timePosted": "2021-04-28T19:36:21.322Z",
+      "text": "Modern tractors use medieval technology(plowing), powered by industrial-age technology(internal combustion), guided by 21st century technology(GPS) to complete the world’s second oldest job.",
+      "id": 48
+    },
+    {
+      "username": "Current User",
+      "picture": "https://randomuser.me/api/portraits/thumb/men/67.jpg",
+      "timePosted": "Thu May 13 2021 21:13:50 GMT+0300 (Eastern European Summer Time)",
+      "text": "Hello",
+      "id": 49
+    }
+  ]
+}
