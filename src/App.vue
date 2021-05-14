@@ -76,7 +76,7 @@ body {
   font-family: "Rubik", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2b2b4a;
+  color: #2B2B4A;
   margin-top: 3rem;
   font-size: 0.85rem;
 }
